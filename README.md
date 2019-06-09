@@ -10,5 +10,5 @@ The dataset can be downloaded from the following kaggle competition: https://www
 
 
 <p align="center">
-  <img width="460" height="300" src="https://i2.wp.com/dataaspirant.com/wp-content/uploads/2017/03/softmax_function.png?resize=768%2C162&ssl=1">
+  <img width="400" height="300" src="https://raw.githubusercontent.com/ritchieng/machine-learning-stanford/master/w3_logistic_regression_regularization/logistic_regression_gd.png">
 </p>
